@@ -1,0 +1,10 @@
+{
+  "models": [
+    {"name": "gemini-3.5-flash", "provider": "openai_compat", "base_url": "https://generativelanguage.googleapis.com/v1beta/openai", "model": "gemini-3.5-flash", "api_key_env": "GEMINI_API_KEY", "min_interval_s": 7, "max_tokens": 4096},
+    {"name": "gemini-3.5-flash-lite", "provider": "openai_compat", "base_url": "https://generativelanguage.googleapis.com/v1beta/openai", "model": "gemini-3.5-flash-lite", "api_key_env": "GEMINI_API_KEY", "min_interval_s": 5, "max_tokens": 4096},
+    {"name": "gemma4-31b", "provider": "openai_compat", "base_url": "https://generativelanguage.googleapis.com/v1beta/openai", "model": "gemma-4-31b-it", "api_key_env": "GEMINI_API_KEY", "min_interval_s": 4, "max_tokens": 4096},
+    {"name": "qwen3.8-27b-groq", "provider": "openai_compat", "base_url": "https://api.groq.com/openai/v1", "model": "qwen/qwen3.8-27b", "api_key_env": "GROQ_API_KEY", "min_interval_s": 4, "max_tokens": 4096},
+    {"name": "gemma4-12b", "provider": "ollama", "model": "gemma4:12b", "num_ctx": 8192, "num_predict": 1024, "timeout_s": 300, "think": false},
+    {"name": "qwen3.5-9b", "provider": "ollama", "model": "qwen3.5:9b", "num_ctx": 8192, "num_predict": 1024, "timeout_s": 300, "think": false}
+  ]
+}

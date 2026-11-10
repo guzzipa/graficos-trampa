@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "eje_truncado_1_control",
+  "tipo": "eje_truncado",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "eje_truncado_1_control.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"2026\" que el de \"2025\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "menos de 10%",
+  "datos": {
+   "2025": 832,
+   "2026": 865,
+   "diferencia_pct": 4.0
+  }
+ },
+ {
+  "id": "eje_truncado_1_trampa",
+  "tipo": "eje_truncado",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "eje_truncado_1_trampa.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"2026\" que el de \"2025\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "menos de 10%",
+  "datos": {
+   "2025": 832,
+   "2026": 865,
+   "diferencia_pct": 4.0
+  }
+ },
+ {
+  "id": "eje_truncado_2_control",
+  "tipo": "eje_truncado",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "eje_truncado_2_control.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Julio\" que el de \"Junio\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "menos de 10%",
+  "datos": {
+   "Junio": 468,
+   "Julio": 501,
+   "diferencia_pct": 7.1
+  }
+ },
+ {
+  "id": "eje_truncado_2_trampa",
+  "tipo": "eje_truncado",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "eje_truncado_2_trampa.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Julio\" que el de \"Junio\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "menos de 10%",
+  "datos": {
+   "Junio": 468,
+   "Julio": 501,
+   "diferencia_pct": 7.1
+  }
+ },
+ {
+  "id": "eje_truncado_3_control",
+  "tipo": "eje_truncado",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "eje_truncado_3_control.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Sucursal Sur\" que el de \"Sucursal Norte\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "entre 10% y 50%",
+  "datos": {
+   "Sucursal Norte": 889,
+   "Sucursal Sur": 1085,
+   "diferencia_pct": 22.0
+  }
+ },
+ {
+  "id": "eje_truncado_3_trampa",
+  "tipo": "eje_truncado",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "eje_truncado_3_trampa.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Sucursal Sur\" que el de \"Sucursal Norte\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "entre 10% y 50%",
+  "datos": {
+   "Sucursal Norte": 889,
+   "Sucursal Sur": 1085,
+   "diferencia_pct": 22.0
+  }
+ },
+ {
+  "id": "eje_truncado_4_control",
+  "tipo": "eje_truncado",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "eje_truncado_4_control.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Plan Plus\" que el de \"Plan Básico\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "entre 10% y 50%",
+  "datos": {
+   "Plan Básico": 521,
+   "Plan Plus": 703,
+   "diferencia_pct": 34.9
+  }
+ },
+ {
+  "id": "eje_truncado_4_trampa",
+  "tipo": "eje_truncado",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "eje_truncado_4_trampa.png",
+  "pregunta": "Según el gráfico, ¿cuánto mayor es el valor de \"Plan Plus\" que el de \"Plan Básico\"?",
+  "opciones": [
+   "menos de 10%",
+   "entre 10% y 50%",
+   "entre 50% y 100%",
+   "más del doble"
+  ],
+  "correcta": "entre 10% y 50%",
+  "datos": {
+   "Plan Básico": 521,
+   "Plan Plus": 703,
+   "diferencia_pct": 34.9
+  }
+ },
+ {
+  "id": "doble_eje_1_control",
+  "tipo": "doble_eje",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "doble_eje_1_control.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "ninguno",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    249,
+    255,
+    259,
+    262,
+    268,
+    276,
+    279,
+    283,
+    288,
+    295,
+    301,
+    305
+   ],
+   "costos": [
+    147,
+    154,
+    159,
+    169,
+    174,
+    180,
+    188,
+    193,
+    202,
+    205,
+    214,
+    219
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_1_trampa",
+  "tipo": "doble_eje",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "doble_eje_1_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "ninguno",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    249,
+    255,
+    259,
+    262,
+    268,
+    276,
+    279,
+    283,
+    288,
+    295,
+    301,
+    305
+   ],
+   "costos": [
+    147,
+    154,
+    159,
+    169,
+    174,
+    180,
+    188,
+    193,
+    202,
+    205,
+    214,
+    219
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_2_control",
+  "tipo": "doble_eje",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "doble_eje_2_control.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "ninguno",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    252,
+    256,
+    259,
+    267,
+    270,
+    275,
+    279,
+    286,
+    290,
+    296,
+    301,
+    304
+   ],
+   "costos": [
+    157,
+    167,
+    173,
+    178,
+    186,
+    192,
+    200,
+    206,
+    212,
+    218,
+    223,
+    231
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_2_trampa",
+  "tipo": "doble_eje",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "doble_eje_2_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "ninguno",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    252,
+    256,
+    259,
+    267,
+    270,
+    275,
+    279,
+    286,
+    290,
+    296,
+    301,
+    304
+   ],
+   "costos": [
+    157,
+    167,
+    173,
+    178,
+    186,
+    192,
+    200,
+    206,
+    212,
+    218,
+    223,
+    231
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_3_control",
+  "tipo": "doble_eje",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "doble_eje_3_control.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "agosto",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    116,
+    119,
+    122,
+    125,
+    128,
+    131,
+    134,
+    137,
+    140,
+    143,
+    146,
+    149
+   ],
+   "costos": [
+    76,
+    85,
+    94,
+    103,
+    112,
+    121,
+    130,
+    139,
+    148,
+    157,
+    166,
+    175
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_3_trampa",
+  "tipo": "doble_eje",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "doble_eje_3_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "agosto",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    116,
+    119,
+    122,
+    125,
+    128,
+    131,
+    134,
+    137,
+    140,
+    143,
+    146,
+    149
+   ],
+   "costos": [
+    76,
+    85,
+    94,
+    103,
+    112,
+    121,
+    130,
+    139,
+    148,
+    157,
+    166,
+    175
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_4_control",
+  "tipo": "doble_eje",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "doble_eje_4_control.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "septiembre",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    115,
+    118,
+    121,
+    124,
+    127,
+    130,
+    133,
+    136,
+    139,
+    142,
+    145,
+    148
+   ],
+   "costos": [
+    69,
+    78,
+    87,
+    96,
+    105,
+    114,
+    123,
+    132,
+    141,
+    150,
+    159,
+    168
+   ]
+  }
+ },
+ {
+  "id": "doble_eje_4_trampa",
+  "tipo": "doble_eje",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "doble_eje_4_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué mes los costos superan por primera vez a los ingresos? Si en ningún mes los superan, respondé \"ninguno\".",
+  "opciones": [
+   "enero",
+   "febrero",
+   "marzo",
+   "abril",
+   "mayo",
+   "junio",
+   "julio",
+   "agosto",
+   "septiembre",
+   "octubre",
+   "noviembre",
+   "diciembre",
+   "ninguno"
+  ],
+  "correcta": "septiembre",
+  "tolerancia_meses": 1,
+  "datos": {
+   "ingresos": [
+    115,
+    118,
+    121,
+    124,
+    127,
+    130,
+    133,
+    136,
+    139,
+    142,
+    145,
+    148
+   ],
+   "costos": [
+    69,
+    78,
+    87,
+    96,
+    105,
+    114,
+    123,
+    132,
+    141,
+    150,
+    159,
+    168
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_1_control",
+  "tipo": "eje_invertido",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "eje_invertido_1_control.png",
+  "pregunta": "Según el gráfico, después de \"Lanzamiento app nueva\", ¿los reclamos subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "subieron",
+  "datos": {
+   "valores": [
+    296,
+    319,
+    310,
+    319,
+    319,
+    303,
+    332,
+    358,
+    394,
+    416,
+    441,
+    475
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_1_trampa",
+  "tipo": "eje_invertido",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "eje_invertido_1_trampa.png",
+  "pregunta": "Según el gráfico, después de \"Lanzamiento app nueva\", ¿los reclamos subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "subieron",
+  "datos": {
+   "valores": [
+    296,
+    319,
+    310,
+    319,
+    319,
+    303,
+    332,
+    358,
+    394,
+    416,
+    441,
+    475
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_2_control",
+  "tipo": "eje_invertido",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "eje_invertido_2_control.png",
+  "pregunta": "Según el gráfico, después de \"Cambio de proveedor\", ¿los fraudes subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "subieron",
+  "datos": {
+   "valores": [
+    313,
+    324,
+    314,
+    315,
+    333,
+    332,
+    347,
+    380,
+    406,
+    442,
+    477,
+    496
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_2_trampa",
+  "tipo": "eje_invertido",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "eje_invertido_2_trampa.png",
+  "pregunta": "Según el gráfico, después de \"Cambio de proveedor\", ¿los fraudes subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "subieron",
+  "datos": {
+   "valores": [
+    313,
+    324,
+    314,
+    315,
+    333,
+    332,
+    347,
+    380,
+    406,
+    442,
+    477,
+    496
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_3_control",
+  "tipo": "eje_invertido",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "eje_invertido_3_control.png",
+  "pregunta": "Según el gráfico, después de \"Nuevo chatbot\", ¿los reclamos subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "valores": [
+    331,
+    347,
+    341,
+    355,
+    351,
+    349,
+    307,
+    281,
+    251,
+    212,
+    184,
+    158
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_3_trampa",
+  "tipo": "eje_invertido",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "eje_invertido_3_trampa.png",
+  "pregunta": "Según el gráfico, después de \"Nuevo chatbot\", ¿los reclamos subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "valores": [
+    331,
+    347,
+    341,
+    355,
+    351,
+    349,
+    307,
+    281,
+    251,
+    212,
+    184,
+    158
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_4_control",
+  "tipo": "eje_invertido",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "eje_invertido_4_control.png",
+  "pregunta": "Según el gráfico, después de \"Nuevo modelo antifraude\", ¿los fraudes subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "valores": [
+    274,
+    269,
+    274,
+    259,
+    261,
+    261,
+    244,
+    211,
+    190,
+    171,
+    146,
+    115
+   ]
+  }
+ },
+ {
+  "id": "eje_invertido_4_trampa",
+  "tipo": "eje_invertido",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "eje_invertido_4_trampa.png",
+  "pregunta": "Según el gráfico, después de \"Nuevo modelo antifraude\", ¿los fraudes subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "valores": [
+    274,
+    269,
+    274,
+    259,
+    261,
+    261,
+    244,
+    211,
+    190,
+    171,
+    146,
+    115
+   ]
+  }
+ },
+ {
+  "id": "acumulado_1_control",
+  "tipo": "acumulado",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "acumulado_1_control.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿las ventas de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    72,
+    45
+   ]
+  }
+ },
+ {
+  "id": "acumulado_1_trampa",
+  "tipo": "acumulado",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "acumulado_1_trampa.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿las ventas de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    72,
+    45
+   ]
+  }
+ },
+ {
+  "id": "acumulado_2_control",
+  "tipo": "acumulado",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "acumulado_2_control.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿los préstamos otorgados de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    39,
+    42,
+    45,
+    49,
+    53,
+    55,
+    51,
+    29
+   ]
+  }
+ },
+ {
+  "id": "acumulado_2_trampa",
+  "tipo": "acumulado",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "acumulado_2_trampa.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿los préstamos otorgados de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    39,
+    42,
+    45,
+    49,
+    53,
+    55,
+    51,
+    29
+   ]
+  }
+ },
+ {
+  "id": "acumulado_3_control",
+  "tipo": "acumulado",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "acumulado_3_control.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿las ventas de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    36,
+    41,
+    47,
+    50,
+    54,
+    58,
+    56,
+    40
+   ]
+  }
+ },
+ {
+  "id": "acumulado_3_trampa",
+  "tipo": "acumulado",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "acumulado_3_trampa.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿las ventas de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    36,
+    41,
+    47,
+    50,
+    54,
+    58,
+    56,
+    40
+   ]
+  }
+ },
+ {
+  "id": "acumulado_4_control",
+  "tipo": "acumulado",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "acumulado_4_control.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿los préstamos otorgados de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    47,
+    49,
+    52,
+    56,
+    59,
+    63,
+    61,
+    45
+   ]
+  }
+ },
+ {
+  "id": "acumulado_4_trampa",
+  "tipo": "acumulado",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "acumulado_4_trampa.png",
+  "pregunta": "Según el gráfico, comparando el último trimestre (T4 26) con el anterior (T3 26), ¿los préstamos otorgados de ese trimestre subieron, bajaron o se mantuvieron?",
+  "opciones": [
+   "subieron",
+   "bajaron",
+   "se mantuvieron"
+  ],
+  "correcta": "bajaron",
+  "datos": {
+   "por_trimestre": [
+    47,
+    49,
+    52,
+    56,
+    59,
+    63,
+    61,
+    45
+   ]
+  }
+ },
+ {
+  "id": "escala_log_1_control",
+  "tipo": "escala_log",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "escala_log_1_control.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más usuarios nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 9000,
+   "nuevos_2026": 90000
+  }
+ },
+ {
+  "id": "escala_log_1_trampa",
+  "tipo": "escala_log",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "escala_log_1_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más usuarios nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 9000,
+   "nuevos_2026": 90000
+  }
+ },
+ {
+  "id": "escala_log_2_control",
+  "tipo": "escala_log",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "escala_log_2_control.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más clientes nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 27000,
+   "nuevos_2026": 270000
+  }
+ },
+ {
+  "id": "escala_log_2_trampa",
+  "tipo": "escala_log",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "escala_log_2_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más clientes nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 27000,
+   "nuevos_2026": 270000
+  }
+ },
+ {
+  "id": "escala_log_3_control",
+  "tipo": "escala_log",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "escala_log_3_control.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más usuarios nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 95000,
+   "nuevos_2026": 200000
+  }
+ },
+ {
+  "id": "escala_log_3_trampa",
+  "tipo": "escala_log",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "escala_log_3_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más usuarios nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 95000,
+   "nuevos_2026": 200000
+  }
+ },
+ {
+  "id": "escala_log_4_control",
+  "tipo": "escala_log",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "escala_log_4_control.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más clientes nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 38000,
+   "nuevos_2026": 80000
+  }
+ },
+ {
+  "id": "escala_log_4_trampa",
+  "tipo": "escala_log",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "escala_log_4_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué año se sumaron más clientes nuevos en términos absolutos (cantidad de personas): en 2025 (de Ene 25 a Ene 26), en 2026 (de Ene 26 a Ene 27), o fue parecido?",
+  "opciones": [
+   "2025",
+   "2026",
+   "parecido"
+  ],
+  "correcta": "2026",
+  "datos": {
+   "nuevos_2025": 38000,
+   "nuevos_2026": 80000
+  }
+ },
+ {
+  "id": "eje_x_irregular_1_control",
+  "tipo": "eje_x_irregular",
+  "variante": 1,
+  "trampa": false,
+  "imagen": "eje_x_irregular_1_control.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    138,
+    176,
+    214,
+    242,
+    270,
+    298
+   ],
+   "por_anio_2016_2022": 19,
+   "por_anio_2022_2025": 28
+  }
+ },
+ {
+  "id": "eje_x_irregular_1_trampa",
+  "tipo": "eje_x_irregular",
+  "variante": 1,
+  "trampa": true,
+  "imagen": "eje_x_irregular_1_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    138,
+    176,
+    214,
+    242,
+    270,
+    298
+   ],
+   "por_anio_2016_2022": 19,
+   "por_anio_2022_2025": 28
+  }
+ },
+ {
+  "id": "eje_x_irregular_2_control",
+  "tipo": "eje_x_irregular",
+  "variante": 2,
+  "trampa": false,
+  "imagen": "eje_x_irregular_2_control.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    144,
+    188,
+    232,
+    264,
+    296,
+    328
+   ],
+   "por_anio_2016_2022": 22,
+   "por_anio_2022_2025": 32
+  }
+ },
+ {
+  "id": "eje_x_irregular_2_trampa",
+  "tipo": "eje_x_irregular",
+  "variante": 2,
+  "trampa": true,
+  "imagen": "eje_x_irregular_2_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    144,
+    188,
+    232,
+    264,
+    296,
+    328
+   ],
+   "por_anio_2016_2022": 22,
+   "por_anio_2022_2025": 32
+  }
+ },
+ {
+  "id": "eje_x_irregular_3_control",
+  "tipo": "eje_x_irregular",
+  "variante": 3,
+  "trampa": false,
+  "imagen": "eje_x_irregular_3_control.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    140,
+    180,
+    220,
+    251,
+    282,
+    313
+   ],
+   "por_anio_2016_2022": 20,
+   "por_anio_2022_2025": 31
+  }
+ },
+ {
+  "id": "eje_x_irregular_3_trampa",
+  "tipo": "eje_x_irregular",
+  "variante": 3,
+  "trampa": true,
+  "imagen": "eje_x_irregular_3_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    140,
+    180,
+    220,
+    251,
+    282,
+    313
+   ],
+   "por_anio_2016_2022": 20,
+   "por_anio_2022_2025": 31
+  }
+ },
+ {
+  "id": "eje_x_irregular_4_control",
+  "tipo": "eje_x_irregular",
+  "variante": 4,
+  "trampa": false,
+  "imagen": "eje_x_irregular_4_control.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    138,
+    176,
+    214,
+    244,
+    274,
+    304
+   ],
+   "por_anio_2016_2022": 19,
+   "por_anio_2022_2025": 30
+  }
+ },
+ {
+  "id": "eje_x_irregular_4_trampa",
+  "tipo": "eje_x_irregular",
+  "variante": 4,
+  "trampa": true,
+  "imagen": "eje_x_irregular_4_trampa.png",
+  "pregunta": "Según el gráfico, ¿en qué período creció más rápido por año: entre 2016 y 2022, entre 2022 y 2025, o fue parecido?",
+  "opciones": [
+   "2016-2022",
+   "2022-2025",
+   "parecido"
+  ],
+  "correcta": "2022-2025",
+  "datos": {
+   "anios": [
+    2016,
+    2018,
+    2020,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "valores": [
+    100,
+    138,
+    176,
+    214,
+    244,
+    274,
+    304
+   ],
+   "por_anio_2016_2022": 19,
+   "por_anio_2022_2025": 30
+  }
+ }
+]
