@@ -41,7 +41,7 @@ def norm(s):
 
 
 def parse(text, opciones):
-    text = re.sub(r"<think>.*?</think>", "", text or "", flags=re.S)
+    text = re.sub(r"<(think|thought)>.*?</\1>", "", text or "", flags=re.S)
     m = re.search(r"\{.*\}", text, flags=re.S)
     if not m:
         return None
