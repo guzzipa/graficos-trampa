@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_x_irregular_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2022-2025\", \"explicacion\": \"Entre 2016 y 2022 la facturación creció a un ritmo promedio de aproximadamente 20 millones por año, mientras que entre 2022 y 2025 aceleró a unos 30 millones por año.\"}\n```",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "Entre 2016 y 2022 la facturación creció a un ritmo promedio de aproximadamente 20 millones por año, mientras que entre 2022 y 2025 aceleró a unos 30 millones por año."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:02:43"
+}

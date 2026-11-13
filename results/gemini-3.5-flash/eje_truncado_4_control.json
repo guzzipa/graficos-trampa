@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_4_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El Plan Plus se ubica cerca de los $700, lo que representa aproximadamente un 35% más que el valor del Plan Básico ($520).\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El Plan Plus se ubica cerca de los $700, lo que representa aproximadamente un 35% más que el valor del Plan Básico ($520)."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:58:24"
+}

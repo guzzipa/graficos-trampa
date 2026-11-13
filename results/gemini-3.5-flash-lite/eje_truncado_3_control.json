@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_truncado_3_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"entre 10% y 50%\",\n  \"explicacion\": \"La Sucursal Sur registra aproximadamente 1.085 miles de transacciones frente a los 890 miles de la Sucursal Norte, lo que representa un incremento cercano al 22%.\"\n}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "La Sucursal Sur registra aproximadamente 1.085 miles de transacciones frente a los 890 miles de la Sucursal Norte, lo que representa un incremento cercano al 22%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:55:49"
+}

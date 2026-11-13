@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_1_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"bajaron\", \"explicacion\": \"Después del lanzamiento de la app nueva, la línea de reclamos muestra una tendencia descendente constante.\"}",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Después del lanzamiento de la app nueva, la línea de reclamos muestra una tendencia descendente constante."
+ },
+ "correcta": "subieron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:02:55"
+}

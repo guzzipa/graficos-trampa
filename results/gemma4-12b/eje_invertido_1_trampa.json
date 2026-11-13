@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_invertido_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"bajaron\", \"explicacion\": \"El gráfico muestra que después del lanzamiento de la nueva app en junio, la línea de reclamos se desplaza hacia valores más altos en el eje vertical (que representa una mayor cantidad de reclamos), indicando un incremento en el volumen de quejas.\"}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "El gráfico muestra que después del lanzamiento de la nueva app en junio, la línea de reclamos se desplaza hacia valores más altos en el eje vertical (que representa una mayor cantidad de reclamos), indicando un incremento en el volumen de quejas."
+ },
+ "correcta": "subieron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:10:26"
+}

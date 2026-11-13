@@ -1,0 +1,10 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_truncado_4_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 50% y 100%\", \"explicacion\": \"El Plan Básico tiene un valor de aproximadamente 525 y el Plan Plus de aproximadamente 700, lo que representa un incremento de alrededor del 35% (que no es correcto, recalculando: 700/525 = 1.33, es decir, un 33% más). Reevaluando los datos: 525 a 700 es un aumento del 33%. Sin embargo, la diferencia visual y numérica entre 525 y 700 es de 175. El 50% de 525 es 262.5. Por lo tanto, el aumento es menor al 50%. Corrigiendo: El valor de Plan Plus (700) es aproximadamente un 33% mayor que el de Plan Básico (525), por lo que la opción correcta es entre 10% y 50%.\"}\n```\n\n*(Nota: Tras un análisis más preciso de los datos visuales: Plan Básico $\\approx$ 525, Plan Plus $\\approx$ 700. El incremento es de 175 unidades. $175 / 525 \\approx 33\\%$. Por lo tanto, la respuesta correcta es entre 10% y 50%.)*\n\n```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El Plan Básico tiene un valor de aproximadamente 525 y el Plan Plus de 700, lo que representa un incremento del 33% aproximadamente.\"}\n```",
+ "resultado": null,
+ "correcta": "entre 10% y 50%",
+ "acierto": false,
+ "intentos": 3,
+ "timestamp": "2026-11-10 12:08:16"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "escala_log_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2026\", \"explicacion\": \"La pendiente de la curva es mucho más pronunciada entre enero de 2026 y enero de 2027, pasando de 100.000 a más de 300.000 usuarios, en comparación con el crecimiento de 2025.\"}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "La pendiente de la curva es mucho más pronunciada entre enero de 2026 y enero de 2027, pasando de 100.000 a más de 300.000 usuarios, en comparación con el crecimiento de 2025."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:15:47"
+}

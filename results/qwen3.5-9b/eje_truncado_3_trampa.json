@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_truncado_3_trampa",
+ "respuesta_cruda": "```json\n{\n\"respuesta\": \"entre 50% y 100%\",\n\"explicacion\": \"La diferencia entre aproximadamente 890 (Sucursal Norte) y 1.080 (Sucursal Sur) es de unos 190, lo que representa un incremento del 21% sobre la base de Sucursal Norte.\"\n}\n```",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "La diferencia entre aproximadamente 890 (Sucursal Norte) y 1.080 (Sucursal Sur) es de unos 190, lo que representa un incremento del 21% sobre la base de Sucursal Norte."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:03:39"
+}

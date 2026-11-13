@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "doble_eje_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"En todos los meses del gráfico, la línea de ingresos (azul) se mantiene consistentemente por encima de la línea de costos (naranja).\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "En todos los meses del gráfico, la línea de ingresos (azul) se mantiene consistentemente por encima de la línea de costos (naranja)."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:08:39"
+}

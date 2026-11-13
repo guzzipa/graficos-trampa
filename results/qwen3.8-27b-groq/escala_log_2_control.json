@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "escala_log_2_control",
+ "respuesta_cruda": "{\"respuesta\": \"2026\", \"explicacion\": \"El gráfico muestra una curva de crecimiento exponencial, por lo que el incremento absoluto de clientes entre Ene 26 y Ene 27 (de ~50.000 a ~300.000, es decir, +250.000) es mucho mayor que el incremento entre Ene 25 y Ene 26 (de ~5.000 a ~50.000, es decir, +45.000).\"}",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "El gráfico muestra una curva de crecimiento exponencial, por lo que el incremento absoluto de clientes entre Ene 26 y Ene 27 (de ~50.000 a ~300.000, es decir, +250.000) es mucho mayor que el incremento entre Ene 25 y Ene 26 (de ~5.000 a ~50.000, es decir, +45.000)."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:09:06"
+}

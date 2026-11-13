@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_invertido_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"A partir del lanzamiento de la nueva aplicación en junio, la línea del gráfico muestra una tendencia ascendente constante hasta diciembre.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "A partir del lanzamiento de la nueva aplicación en junio, la línea del gráfico muestra una tendencia ascendente constante hasta diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:10:12"
+}

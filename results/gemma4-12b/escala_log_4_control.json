@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "escala_log_4_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2026\", \"explicacion\": \"El crecimiento en 2026 es de aproximadamente 80.000 clientes (de 40.000 a 120.000), mientras que en 2025 el crecimiento es de aproximadamente 37.000 clientes (de 3.000 a 40.000).\"}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "El crecimiento en 2026 es de aproximadamente 80.000 clientes (de 40.000 a 120.000), mientras que en 2025 el crecimiento es de aproximadamente 37.000 clientes (de 3.000 a 40.000)."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:16:28"
+}

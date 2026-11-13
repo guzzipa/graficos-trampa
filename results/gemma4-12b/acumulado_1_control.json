@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "acumulado_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"bajaron\", \"explicacion\": \"Las ventas en el trimestre T4 26 son de aproximadamente 45 millones, mientras que en el trimestre anterior T3 26 fueron de aproximadamente 72 millones.\"}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Las ventas en el trimestre T4 26 son de aproximadamente 45 millones, mientras que en el trimestre anterior T3 26 fueron de aproximadamente 72 millones."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:11:56"
+}

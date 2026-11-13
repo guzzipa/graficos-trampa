@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "acumulado_4_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"La barra correspondiente al último trimestre (T4 26) es más baja que la del trimestre anterior (T3 26), lo que indica una disminución en los préstamos otorgados.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "La barra correspondiente al último trimestre (T4 26) es más baja que la del trimestre anterior (T3 26), lo que indica una disminución en los préstamos otorgados."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:09:49"
+}

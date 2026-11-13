@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_invertido_1_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"subieron\",\n  \"explicacion\": \"Tras el lanzamiento de la nueva app en julio, los reclamos mostraron una tendencia ascendente constante hasta diciembre.\"\n}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Tras el lanzamiento de la nueva app en julio, los reclamos mostraron una tendencia ascendente constante hasta diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:06:35"
+}

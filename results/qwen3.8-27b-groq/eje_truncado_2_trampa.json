@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_truncado_2_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"entre 50% y 100%\", \"explicacion\": \"El valor de Julio (aproximadamente 501) es aproximadamente un 73% mayor que el de Junio (aproximadamente 468).\"}",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "El valor de Julio (aproximadamente 501) es aproximadamente un 73% mayor que el de Junio (aproximadamente 468)."
+ },
+ "correcta": "menos de 10%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:57:50"
+}

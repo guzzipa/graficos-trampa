@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_invertido_2_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"subieron\",\n  \"explicacion\": \"A partir del cambio de proveedor indicado entre junio y julio, la cantidad de fraudes detectados muestra una tendencia ascendente sostenida hasta diciembre.\"\n}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "A partir del cambio de proveedor indicado entre junio y julio, la cantidad de fraudes detectados muestra una tendencia ascendente sostenida hasta diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:19:21"
+}

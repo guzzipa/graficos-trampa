@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_x_irregular_3_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"parecido\", \"explicacion\": \"La pendiente de la línea es prácticamente constante en ambos períodos, lo que indica un crecimiento anual similar.\"}",
+ "resultado": {
+  "respuesta": "parecido",
+  "explicacion": "La pendiente de la línea es prácticamente constante en ambos períodos, lo que indica un crecimiento anual similar."
+ },
+ "correcta": "2022-2025",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 13:14:26"
+}

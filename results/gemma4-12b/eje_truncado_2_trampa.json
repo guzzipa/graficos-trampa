@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_truncado_2_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 50% y 100%\", \"explicacion\": \"El valor de Junio es aproximadamente 468 y el de Julio es aproximadamente 501, lo que representa un incremento de alrededor del 60%.\"}\n```",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "El valor de Junio es aproximadamente 468 y el de Julio es aproximadamente 501, lo que representa un incremento de alrededor del 60%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:06:42"
+}

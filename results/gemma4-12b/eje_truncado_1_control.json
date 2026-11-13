@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_truncado_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"menos de 10%\", \"explicacion\": \"El valor de 2025 es de aproximadamente 840 millones y el de 2026 es de aproximadamente 870 millones, lo que representa un incremento de alrededor del 3.5%.\"}\n```",
+ "resultado": {
+  "respuesta": "menos de 10%",
+  "explicacion": "El valor de 2025 es de aproximadamente 840 millones y el de 2026 es de aproximadamente 870 millones, lo que representa un incremento de alrededor del 3.5%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:04:28"
+}

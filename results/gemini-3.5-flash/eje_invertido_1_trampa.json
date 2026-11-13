@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_invertido_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"Aunque la curva desciende en el gráfico, el eje vertical está invertido, por lo que la cantidad de reclamos aumentó de aproximadamente 300 a casi 500 entre junio y diciembre.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Aunque la curva desciende en el gráfico, el eje vertical está invertido, por lo que la cantidad de reclamos aumentó de aproximadamente 300 a casi 500 entre junio y diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 10:57:29"
+}

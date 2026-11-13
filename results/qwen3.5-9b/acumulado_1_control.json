@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "acumulado_1_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"Las ventas en el último trimestre (T4 26) fueron de aproximadamente 45 millones de dólares, lo cual es menor que las ventas del trimestre anterior (T3 26), que fueron de aproximadamente 72 millones de dólares.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Las ventas en el último trimestre (T4 26) fueron de aproximadamente 45 millones de dólares, lo cual es menor que las ventas del trimestre anterior (T3 26), que fueron de aproximadamente 72 millones de dólares."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:08:21"
+}

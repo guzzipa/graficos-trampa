@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_4_control",
+ "respuesta_cruda": "{\"respuesta\": \"bajaron\", \"explicacion\": \"Después de la línea vertical que indica el 'Nuevo modelo antifraude', la línea de datos muestra una tendencia descendente clara, pasando de aproximadamente 260 a menos de 120.\"}",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Después de la línea vertical que indica el 'Nuevo modelo antifraude', la línea de datos muestra una tendencia descendente clara, pasando de aproximadamente 260 a menos de 120."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:04:37"
+}

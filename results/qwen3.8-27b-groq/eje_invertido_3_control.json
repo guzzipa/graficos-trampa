@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_3_control",
+ "respuesta_cruda": "{\"respuesta\": \"bajaron\", \"explicacion\": \"Después de la línea vertical que indica 'Nuevo chatbot', la línea de datos muestra una tendencia descendente constante.\"}",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Después de la línea vertical que indica 'Nuevo chatbot', la línea de datos muestra una tendencia descendente constante."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:03:57"
+}

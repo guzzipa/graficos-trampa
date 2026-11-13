@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_2_control",
+ "respuesta_cruda": "{\"respuesta\": \"subieron\", \"explicacion\": \"Después de la línea vertical que indica el cambio de proveedor, la línea de datos muestra un aumento constante en el número de fraudes detectados por mes.\"}",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Después de la línea vertical que indica el cambio de proveedor, la línea de datos muestra un aumento constante en el número de fraudes detectados por mes."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:03:16"
+}

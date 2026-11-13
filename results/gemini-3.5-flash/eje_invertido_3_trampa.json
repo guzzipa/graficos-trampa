@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_invertido_3_trampa",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"Tras la implementación del nuevo chatbot, el número de reclamos disminuyó progresivamente de 350 a cerca de 155 hacia fin de año, tal como indica el eje vertical invertido.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Tras la implementación del nuevo chatbot, el número de reclamos disminuyó progresivamente de 350 a cerca de 155 hacia fin de año, tal como indica el eje vertical invertido."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 10:58:48"
+}

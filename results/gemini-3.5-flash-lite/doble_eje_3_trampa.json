@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "doble_eje_3_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"A lo largo de todo el año, la línea de ingresos se mantiene muy por encima de la línea de costos, por lo que nunca llegan a superarlos.\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "A lo largo de todo el año, la línea de ingresos se mantiene muy por encima de la línea de costos, por lo que nunca llegan a superarlos."
+ },
+ "correcta": "agosto",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:57:12"
+}

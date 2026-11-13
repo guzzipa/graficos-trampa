@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_2_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"Durante todo el año, la línea de ingresos se mantiene por encima de la línea de costos en cada uno de los meses.\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "Durante todo el año, la línea de ingresos se mantiene por encima de la línea de costos en cada uno de los meses."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:59:30"
+}

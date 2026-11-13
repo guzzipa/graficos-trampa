@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_4_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El valor de Plan Plus (aproximadamente $704) es cerca de un 35% mayor que el de Plan Básico (aproximadamente $520).\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El valor de Plan Plus (aproximadamente $704) es cerca de un 35% mayor que el de Plan Básico (aproximadamente $520)."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:58:40"
+}

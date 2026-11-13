@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_truncado_1_control",
+ "respuesta_cruda": "{\"respuesta\": \"menos de 10%\", \"explicacion\": \"El valor de 2026 es aproximadamente 870 y el de 2025 es 840, lo que representa un aumento de aproximadamente el 3.6%.\"}",
+ "resultado": {
+  "respuesta": "menos de 10%",
+  "explicacion": "El valor de 2026 es aproximadamente 870 y el de 2025 es 840, lo que representa un aumento de aproximadamente el 3.6%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:56:47"
+}

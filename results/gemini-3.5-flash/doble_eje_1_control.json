@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"En ningún mes los costos superan a los ingresos, ya que la línea de ingresos se mantiene por encima de la de costos durante todo el año.\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "En ningún mes los costos superan a los ingresos, ya que la línea de ingresos se mantiene por encima de la de costos durante todo el año."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:59:05"
+}

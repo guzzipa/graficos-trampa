@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "escala_log_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2026\", \"explicacion\": \"Entre enero de 2026 y enero de 2027 se sumaron unos 200.000 usuarios, mientras que entre enero de 2025 y enero de 2026 se sumaron cerca de 95.000.\"}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "Entre enero de 2026 y enero de 2027 se sumaron unos 200.000 usuarios, mientras que entre enero de 2025 y enero de 2026 se sumaron cerca de 95.000."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:09:27"
+}

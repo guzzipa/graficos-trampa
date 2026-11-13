@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "acumulado_3_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"Las ventas cayeron de aproximadamente 56 millones en T3 26 a 40 millones en T4 26.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Las ventas cayeron de aproximadamente 56 millones en T3 26 a 40 millones en T4 26."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:01:20"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_truncado_4_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"entre 50% y 100%\", \"explicacion\": \"El Plan Básico tiene un valor de 520 y el Plan Plus de 705, lo que representa un aumento de aproximadamente el 35.6%.\"}",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "El Plan Básico tiene un valor de 520 y el Plan Plus de 705, lo que representa un aumento de aproximadamente el 35.6%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:59:16"
+}

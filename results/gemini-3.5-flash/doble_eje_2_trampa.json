@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_2_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"En todos los meses los ingresos (entre 252 y 304 millones) se mantienen por encima de los costos (entre 158 y 232 millones).\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "En todos los meses los ingresos (entre 252 y 304 millones) se mantienen por encima de los costos (entre 158 y 232 millones)."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:59:56"
+}

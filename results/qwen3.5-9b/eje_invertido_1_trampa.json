@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_invertido_1_trampa",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"La línea del gráfico muestra una tendencia descendente en el número de reclamos después del punto marcado como 'Lanzamiento app nueva'.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "La línea del gráfico muestra una tendencia descendente en el número de reclamos después del punto marcado como 'Lanzamiento app nueva'."
+ },
+ "correcta": "subieron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:06:47"
+}

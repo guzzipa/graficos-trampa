@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_invertido_4_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"La línea del gráfico muestra una tendencia descendente en el número de fraudes detectados a partir de julio, mes en que se implementó el nuevo modelo antifraude.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "La línea del gráfico muestra una tendencia descendente en el número de fraudes detectados a partir de julio, mes en que se implementó el nuevo modelo antifraude."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:07:52"
+}

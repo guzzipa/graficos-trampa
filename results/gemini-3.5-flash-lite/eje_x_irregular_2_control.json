@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_x_irregular_2_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"parecido\", \"explicacion\": \"Entre 2016 y 2022 el crecimiento promedio fue de aproximadamente 22.1 mil clientes por año, y entre 2022 y 2025 fue de unos 31.5 mil clientes anuales, manteniendo una pendiente similar y constante en todo el gráfico.\"}\n```",
+ "resultado": {
+  "respuesta": "parecido",
+  "explicacion": "Entre 2016 y 2022 el crecimiento promedio fue de aproximadamente 22.1 mil clientes por año, y entre 2022 y 2025 fue de unos 31.5 mil clientes anuales, manteniendo una pendiente similar y constante en todo el gráfico."
+ },
+ "correcta": "2022-2025",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:02:25"
+}

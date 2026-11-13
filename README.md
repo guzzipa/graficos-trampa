@@ -29,7 +29,24 @@ Todos gratis: Gemini 3.5 Flash, Gemini 3.5 Flash-Lite y Gemma 4 31B (capa gratui
 
 ## Resultados
 
-_Pendiente: se completa después de correr._
+**Con los gráficos bien hechos, los 6 modelos acertaron el 90%. Con los mismos datos en un gráfico tramposo, el 49%.** La hipótesis (brecha de al menos 25 puntos) se confirma: la brecha es de 40.
+
+| Modelo | Dónde corre | Gráfico bien hecho | Gráfico con trampa |
+|---|---|---|---|
+| Gemma 4 31B | Google AI Studio (gratis) | 24/24 | 23/24 |
+| Gemini 3.5 Flash | Google AI Studio (gratis) | 24/24 | 21/24 |
+| Gemini 3.5 Flash-Lite | Google AI Studio (gratis) | 21/24 | 12/24 |
+| Qwen 3.8 27B | Groq (gratis) | 22/24 | 7/24 |
+| Gemma 4 12B | local, Ollama | 22/24 | 5/24 |
+| Qwen 3.5 9B | local, Ollama | 16/24 | 3/24 |
+
+- La trampa que más engañó fue **el acumulado**: en el último trimestre las ventas cayeron 38%, pero la línea acumulada sigue subiendo. 4 de los 6 modelos dijeron que subieron.
+- Gemma 4 31B escribe su razonamiento antes de responder y lee los ejes; Gemma 4 12B, de la misma familia y sin ese paso, respondió bien 5 de 24 trampas.
+- Las 6 trampas engañaron a al menos 2 modelos según el criterio pre-registrado.
+
+Detalle por tipo de trampa y cada respuesta con su explicación en `results/reporte.md` y `results/resultados.csv`; las respuestas completas, en `results/<modelo>/`.
+
+**Limitaciones:** 48 gráficos generados por mí, una corrida por gráfico a temperatura 0, preguntas en español y modelos gratuitos. Sirve para mostrar cómo fallan y cómo testearlo, no como ranking de modelos.
 
 ## Cómo correrlo
 

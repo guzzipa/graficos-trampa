@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "doble_eje_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"agosto\", \"explicacion\": \"En el gráfico se observa que la línea de costos (naranja) cruza y supera a la línea de ingresos (azul) a partir del mes de agosto.\"}\n```",
+ "resultado": {
+  "respuesta": "agosto",
+  "explicacion": "En el gráfico se observa que la línea de costos (naranja) cruza y supera a la línea de ingresos (azul) a partir del mes de agosto."
+ },
+ "correcta": "agosto",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:09:24"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_x_irregular_4_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"2022-2025\",\n  \"explicacion\": \"Entre 2022 y 2025 el crecimiento promedio fue de unos 30 mil clientes por año, superando el promedio de aproximadamente 19 mil por año registrado entre 2016 y 2022.\"\n}\n```",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "Entre 2022 y 2025 el crecimiento promedio fue de unos 30 mil clientes por año, superando el promedio de aproximadamente 19 mil por año registrado entre 2016 y 2022."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 15:20:50"
+}

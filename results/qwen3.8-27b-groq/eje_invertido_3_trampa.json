@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_3_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"bajaron\", \"explicacion\": \"Después de la línea vertical que indica el lanzamiento del nuevo chatbot, la línea de datos se desplaza hacia arriba en el gráfico, lo que corresponde a valores más bajos en el eje Y (que está invertido).\"}",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Después de la línea vertical que indica el lanzamiento del nuevo chatbot, la línea de datos se desplaza hacia arriba en el gráfico, lo que corresponde a valores más bajos en el eje Y (que está invertido)."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:04:17"
+}

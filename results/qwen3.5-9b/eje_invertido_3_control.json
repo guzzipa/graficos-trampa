@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_invertido_3_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"La línea del gráfico muestra una tendencia descendente en el número de reclamos desde julio hasta diciembre, después de la implementación del nuevo chatbot.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "La línea del gráfico muestra una tendencia descendente en el número de reclamos desde julio hasta diciembre, después de la implementación del nuevo chatbot."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:07:28"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_3_trampa",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"junio\",\n  \"explicacion\": \"Al leer los ejes correspondientes, en junio los costos alcanzan los 135 millones de $ (eje derecho) y superan por primera vez a los ingresos de 131 millones de $ (eje izquierdo).\"\n}\n```",
+ "resultado": {
+  "respuesta": "junio",
+  "explicacion": "Al leer los ejes correspondientes, en junio los costos alcanzan los 135 millones de $ (eje derecho) y superan por primera vez a los ingresos de 131 millones de $ (eje izquierdo)."
+ },
+ "correcta": "agosto",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:00:32"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "escala_log_4_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"2025\", \"explicacion\": \"El gráfico muestra una escala logarítmica donde la pendiente de la línea es más pronunciada entre Ene 25 y Ene 26, lo que indica un mayor crecimiento en términos absolutos en ese período.\"}",
+ "resultado": {
+  "respuesta": "2025",
+  "explicacion": "El gráfico muestra una escala logarítmica donde la pendiente de la línea es más pronunciada entre Ene 25 y Ene 26, lo que indica un mayor crecimiento en términos absolutos en ese período."
+ },
+ "correcta": "2026",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:10:47"
+}

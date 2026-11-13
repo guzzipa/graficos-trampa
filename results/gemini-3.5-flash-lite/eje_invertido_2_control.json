@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_invertido_2_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"A partir de la línea punteada que indica el 'Cambio de proveedor' entre junio y julio, la línea de tendencia de fraudes detectados muestra un incremento constante mes a mes hasta diciembre.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "A partir de la línea punteada que indica el 'Cambio de proveedor' entre junio y julio, la línea de tendencia de fraudes detectados muestra un incremento constante mes a mes hasta diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:57:57"
+}

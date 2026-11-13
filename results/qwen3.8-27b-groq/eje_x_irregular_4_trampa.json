@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_x_irregular_4_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"parecido\", \"explicacion\": \"El gráfico muestra una línea recta con una pendiente constante, lo que indica que el crecimiento anual fue similar en ambos períodos.\"}",
+ "resultado": {
+  "respuesta": "parecido",
+  "explicacion": "El gráfico muestra una línea recta con una pendiente constante, lo que indica que el crecimiento anual fue similar en ambos períodos."
+ },
+ "correcta": "2022-2025",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 14:11:16"
+}

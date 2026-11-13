@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "escala_log_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2026\", \"explicacion\": \"Dado que el gráfico utiliza una escala logarítmica, la línea recta indica un crecimiento exponencial, lo que significa que el incremento absoluto de usuarios es mucho mayor en el segundo periodo (2026) que en el primero (2025).\"}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "Dado que el gráfico utiliza una escala logarítmica, la línea recta indica un crecimiento exponencial, lo que significa que el incremento absoluto de usuarios es mucho mayor en el segundo periodo (2026) que en el primero (2025)."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:14:47"
+}

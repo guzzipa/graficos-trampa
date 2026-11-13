@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "escala_log_2_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"2026\",\n  \"explicacion\": \"En 2026 la cantidad de clientes aumentó de aproximadamente 30.000 a 300.000 (un incremento de unos 270.000), superando por mucho el crecimiento de 2025.\"\n}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "En 2026 la cantidad de clientes aumentó de aproximadamente 30.000 a 300.000 (un incremento de unos 270.000), superando por mucho el crecimiento de 2025."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:04:00"
+}

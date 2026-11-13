@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"agosto\", \"explicacion\": \"En el mes de agosto, la línea de costos supera por primera vez a la línea de ingresos.\"}\n```",
+ "resultado": {
+  "respuesta": "agosto",
+  "explicacion": "En el mes de agosto, la línea de costos supera por primera vez a la línea de ingresos."
+ },
+ "correcta": "agosto",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:00:12"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_invertido_4_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"A partir del mes de julio, tras la implementación del nuevo modelo antifraude, la línea del gráfico muestra un incremento sostenido en la cantidad de fraudes detectados.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "A partir del mes de julio, tras la implementación del nuevo modelo antifraude, la línea del gráfico muestra un incremento sostenido en la cantidad de fraudes detectados."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:59:47"
+}

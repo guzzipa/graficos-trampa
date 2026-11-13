@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "doble_eje_2_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"ninguno\",\n  \"explicacion\": \"Según el gráfico, los ingresos siempre superan a los costos en todos los meses del año 2026.\"\n}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "Según el gráfico, los ingresos siempre superan a los costos en todos los meses del año 2026."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:04:55"
+}

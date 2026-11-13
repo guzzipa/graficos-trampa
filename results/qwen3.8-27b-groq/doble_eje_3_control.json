@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "doble_eje_3_control",
+ "respuesta_cruda": "{\"respuesta\": \"agosto\", \"explicacion\": \"En agosto, la línea naranja de costos cruza por encima de la línea azul de ingresos por primera vez, alcanzando aproximadamente 140 millones de dólares frente a los 140 millones de ingresos.\"}",
+ "resultado": {
+  "respuesta": "agosto",
+  "explicacion": "En agosto, la línea naranja de costos cruza por encima de la línea azul de ingresos por primera vez, alcanzando aproximadamente 140 millones de dólares frente a los 140 millones de ingresos."
+ },
+ "correcta": "agosto",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:01:12"
+}

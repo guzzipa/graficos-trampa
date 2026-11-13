@@ -1,0 +1,14 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "doble_eje_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ago\", \"explicacion\": \"En agosto la línea naranja de costos cruza por encima de la línea azul de ingresos por primera vez.\"}\n```",
+ "resultado": {
+  "respuesta": null,
+  "cruda": "ago",
+  "explicacion": "En agosto la línea naranja de costos cruza por encima de la línea azul de ingresos por primera vez."
+ },
+ "correcta": "agosto",
+ "acierto": false,
+ "intentos": 3,
+ "timestamp": "2026-11-10 15:57:05"
+}

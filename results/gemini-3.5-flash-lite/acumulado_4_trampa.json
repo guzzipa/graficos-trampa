@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "acumulado_4_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"subieron\", \"explicacion\": \"El gráfico muestra que el valor acumulado pasó de aproximadamente 388 millones en T3 26 a más de 430 millones en T4 26.\"}",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "El gráfico muestra que el valor acumulado pasó de aproximadamente 388 millones en T3 26 a más de 430 millones en T4 26."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:00:54"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "escala_log_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2026\", \"explicacion\": \"De Ene 25 a Ene 26 el incremento fue de aproximadamente 9.000 usuarios, mientras que de Ene 26 a Ene 27 el aumento superó los 90.000 usuarios.\"}\n```",
+ "resultado": {
+  "respuesta": "2026",
+  "explicacion": "De Ene 25 a Ene 26 el incremento fue de aproximadamente 9.000 usuarios, mientras que de Ene 26 a Ene 27 el aumento superó los 90.000 usuarios."
+ },
+ "correcta": "2026",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:01:01"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_x_irregular_1_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"parecido\", \"explicacion\": \"La pendiente de la línea de facturación es prácticamente constante a lo largo de todo el período, lo que indica un crecimiento anual similar entre 2016-2022 y 2022-2025.\"}",
+ "resultado": {
+  "respuesta": "parecido",
+  "explicacion": "La pendiente de la línea de facturación es prácticamente constante a lo largo de todo el período, lo que indica un crecimiento anual similar entre 2016-2022 y 2022-2025."
+ },
+ "correcta": "2022-2025",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:11:29"
+}

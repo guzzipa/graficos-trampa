@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_invertido_1_control",
+ "respuesta_cruda": "{\"respuesta\": \"subieron\", \"explicacion\": \"Después de la línea vertical que indica el lanzamiento de la app nueva, la línea de datos muestra una tendencia ascendente constante hasta el final del gráfico.\"}",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Después de la línea vertical que indica el lanzamiento de la app nueva, la línea de datos muestra una tendencia ascendente constante hasta el final del gráfico."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:02:35"
+}

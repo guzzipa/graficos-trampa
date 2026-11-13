@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_truncado_2_control",
+ "respuesta_cruda": "```json\n{\n\"respuesta\": \"entre 50% y 100%\",\n\"explicacion\": \"El valor de Julio es aproximadamente 500 y el de Junio es aproximadamente 470, lo que representa un aumento del 6.38%, por lo tanto la diferencia es menor al 10%.\"\n}\n```",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "El valor de Julio es aproximadamente 500 y el de Junio es aproximadamente 470, lo que representa un aumento del 6.38%, por lo tanto la diferencia es menor al 10%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:03:06"
+}

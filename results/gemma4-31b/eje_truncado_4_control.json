@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-31b",
+ "tarea": "eje_truncado_4_control",
+ "respuesta_cruda": "<thought>*   Goal: Determine how much larger \"Plan Plus\" is compared to \"Plan Básico\".\n    *   Chart: Bar chart showing \"Ticket promedio ($)\".\n    *   Values:\n        *   Plan Básico: The bar is slightly above 500. Let's estimate it at ~520.\n        *   Plan Plus: The bar is slightly above 700. Let's estimate it at ~705.\n    *   Calculation:\n        *   Difference = 705 - 520 = 185.\n        *   Percentage increase = (Difference / Plan Básico) * 100 = (185 / 520) * 100 ≈ 35.5%.\n    *   Options:\n        *   menos de 10%\n        *   entre 10% y 50% (35.5% fits here)\n        *   entre 50% y 100%\n        *   más del doble (would need to be > 1040)\n\n    *   Plan Básico ≈ 520\n    *   Plan Plus ≈ 705\n    *   (705 / 520) - 1 ≈ 1.355 - 1 = 0.355 or 35.5%.\n    *   This falls within the \"entre 10% y 50%\" range.\n\n    *   JSON format.\n    *   `respuesta`: \"entre 10% y 50%\"\n    *   `explicacion`: \"El Plan Plus (~705) es aproximadamente un 35% mayor que el Plan Básico (~520).\"</thought>```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El valor del Plan Plus (aprox. 705) es aproximadamente un 35% mayor que el del Plan Básico (aprox. 520).\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El valor del Plan Plus (aprox. 705) es aproximadamente un 35% mayor que el del Plan Básico (aprox. 520)."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:16:58"
+}

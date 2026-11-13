@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "doble_eje_2_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"enero\", \"explicacion\": \"Desde el inicio del gráfico en enero, la línea de costos (eje derecho) ya se encuentra en un valor superior al de los ingresos (eje izquierdo).\"}\n```",
+ "resultado": {
+  "respuesta": "enero",
+  "explicacion": "Desde el inicio del gráfico en enero, la línea de costos (eje derecho) ya se encuentra en un valor superior al de los ingresos (eje izquierdo)."
+ },
+ "correcta": "ninguno",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:09:13"
+}

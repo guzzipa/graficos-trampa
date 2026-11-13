@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_x_irregular_2_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"2022-2025\",\n  \"explicacion\": \"Entre 2022 y 2025 los clientes aumentaron a un ritmo de unos 32 mil por año, mientras que entre 2016 y 2022 crecieron a unos 22 mil por año.\"\n}\n```",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "Entre 2022 y 2025 los clientes aumentaron a un ritmo de unos 32 mil por año, mientras que entre 2016 y 2022 crecieron a unos 22 mil por año."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-13 09:51:54"
+}

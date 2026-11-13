@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "acumulado_1_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"subieron\", \"explicacion\": \"Las ventas acumuladas pasaron de aproximadamente 450 millones de dólares en T3 26 a 490 millones de dólares en T4 26, lo que indica un aumento.\"}",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Las ventas acumuladas pasaron de aproximadamente 450 millones de dólares en T3 26 a 490 millones de dólares en T4 26, lo que indica un aumento."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:05:38"
+}

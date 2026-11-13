@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "acumulado_4_control",
+ "respuesta_cruda": "{\"respuesta\": \"bajaron\", \"explicacion\": \"Los préstamos otorgados en T4 26 (aproximadamente 45 millones de $) son menores que en T3 26 (aproximadamente 61 millones de $).\"}",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "Los préstamos otorgados en T4 26 (aproximadamente 45 millones de $) son menores que en T3 26 (aproximadamente 61 millones de $)."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:07:45"
+}

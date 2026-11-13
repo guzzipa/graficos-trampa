@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.5-9b",
+ "tarea": "eje_truncado_4_control",
+ "respuesta_cruda": "```json\n{\n\"respuesta\": \"entre 50% y 100%\",\n\"explicacion\": \"El valor del Plan Plus es aproximadamente el doble del Plan Básico, lo que representa un aumento entre el 50% y el 100%.\"\n}\n```",
+ "resultado": {
+  "respuesta": "entre 50% y 100%",
+  "explicacion": "El valor del Plan Plus es aproximadamente el doble del Plan Básico, lo que representa un aumento entre el 50% y el 100%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-11 11:03:50"
+}

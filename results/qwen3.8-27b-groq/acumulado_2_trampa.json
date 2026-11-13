@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "acumulado_2_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"subieron\", \"explicacion\": \"El gráfico muestra una tendencia ascendente, donde el valor acumulado en T4 26 es mayor que en T3 26, lo que indica que los préstamos otorgados en ese período aumentaron.\"}",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "El gráfico muestra una tendencia ascendente, donde el valor acumulado en T4 26 es mayor que en T3 26, lo que indica que los préstamos otorgados en ese período aumentaron."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:06:59"
+}

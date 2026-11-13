@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "doble_eje_3_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"ninguno\", \"explicacion\": \"En todos los meses del año, la línea de ingresos (azul) se mantiene por encima de la línea de costos (naranja), por lo que los costos nunca superan a los ingresos.\"}",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "En todos los meses del año, la línea de ingresos (azul) se mantiene por encima de la línea de costos (naranja), por lo que los costos nunca superan a los ingresos."
+ },
+ "correcta": "agosto",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:01:32"
+}

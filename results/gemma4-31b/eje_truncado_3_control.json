@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-31b",
+ "tarea": "eje_truncado_3_control",
+ "respuesta_cruda": "<thought>*   Goal: Determine how much larger \"Sucursal Sur\" is compared to \"Sucursal Norte\".\n    *   Chart: Bar chart showing \"Transacciones por día (miles)\".\n    *   Values:\n        *   Sucursal Norte (grey bar): Approximately 900 (it's exactly on the line for 900 if we interpolate between 800 and 1000, or just slightly below 900? No, looking closely, the line for 800 is below it, and 1000 is above. It looks to be exactly at 900).\n        *   Sucursal Sur (blue bar): Approximately 1100 (it's above the 1000 line).\n    *   Calculation:\n        *   Difference = 1100 - 900 = 200.\n        *   Percentage increase = (Difference / Base) * 100 = (200 / 900) * 100 ≈ 22.22%.\n    *   Options:\n        *   menos de 10%\n        *   entre 10% y 50% (This fits 22.22%)\n        *   entre 50% y 100%\n        *   más del doble\n\n    *   Sucursal Norte is at 900.\n    *   Sucursal Sur is at 1100.\n    *   (1100 - 900) / 900 = 200 / 900 = 2/9 ≈ 0.222...\n    *   22.2% is between 10% and 50%.\n\n    *   JSON format.\n    *   `respuesta`: \"entre 10% y 50%\"\n    *   `explicacion`: \"La Sucursal Sur tiene aproximadamente 1100 miles de transacciones y la Sucursal Norte 900 miles, lo que representa un incremento de aproximadamente el 22%.\"</thought>```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"La Sucursal Sur tiene aproximadamente 1100 miles de transacciones y la Sucursal Norte 900 miles, lo que representa un incremento de aproximadamente el 22%.\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "La Sucursal Sur tiene aproximadamente 1100 miles de transacciones y la Sucursal Norte 900 miles, lo que representa un incremento de aproximadamente el 22%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:13:18"
+}

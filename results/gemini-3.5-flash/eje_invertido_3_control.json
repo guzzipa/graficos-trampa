@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_invertido_3_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"bajaron\",\n  \"explicacion\": \"A partir del lanzamiento del nuevo chatbot a mediados de año, los reclamos mostraron una tendencia decreciente constante hasta fin de año.\"\n}\n```",
+ "resultado": {
+  "respuesta": "bajaron",
+  "explicacion": "A partir del lanzamiento del nuevo chatbot a mediados de año, los reclamos mostraron una tendencia decreciente constante hasta fin de año."
+ },
+ "correcta": "bajaron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 10:58:27"
+}

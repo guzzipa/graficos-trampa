@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_x_irregular_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"2022-2025\", \"explicacion\": \"Entre 2022 y 2025 la facturación creció a un ritmo de aproximadamente 28 millones por año, superando los 19 millones por año del período 2016-2022.\"}\n```",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "Entre 2022 y 2025 la facturación creció a un ritmo de aproximadamente 28 millones por año, superando los 19 millones por año del período 2016-2022."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-13 09:51:33"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "acumulado_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"El gráfico muestra que las ventas acumuladas en el trimestre T4 26 son superiores a las del trimestre T3 26, pasando de aproximadamente 450 millones a casi 500 millones.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "El gráfico muestra que las ventas acumuladas en el trimestre T4 26 son superiores a las del trimestre T3 26, pasando de aproximadamente 450 millones a casi 500 millones."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:12:11"
+}

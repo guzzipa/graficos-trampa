@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_2_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"menos de 10%\", \"explicacion\": \"El valor de Julio es de 500 mil y el de Junio ronda los 470 mil, por lo que la diferencia representa un incremento menor al 10%.\"}\n```",
+ "resultado": {
+  "respuesta": "menos de 10%",
+  "explicacion": "El valor de Julio es de 500 mil y el de Junio ronda los 470 mil, por lo que la diferencia representa un incremento menor al 10%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:57:20"
+}

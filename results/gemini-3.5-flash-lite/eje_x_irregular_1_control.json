@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_x_irregular_1_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"parecido\", \"explicacion\": \"Entre 2016 y 2022 la facturación creció de 100 a 214 millones (aprox. 19 millones por año), y entre 2022 y 2025 creció de 214 a 298 millones (aprox. 28 millones por año), mostrando un ritmo de crecimiento similar y sostenido.\"}\n```",
+ "resultado": {
+  "respuesta": "parecido",
+  "explicacion": "Entre 2016 y 2022 la facturación creció de 100 a 214 millones (aprox. 19 millones por año), y entre 2022 y 2025 creció de 214 a 298 millones (aprox. 28 millones por año), mostrando un ritmo de crecimiento similar y sostenido."
+ },
+ "correcta": "2022-2025",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 16:02:04"
+}

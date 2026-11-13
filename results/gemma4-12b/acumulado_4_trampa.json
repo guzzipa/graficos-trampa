@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "acumulado_4_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"El valor en el trimestre T4 26 es superior al valor registrado en el trimestre T3 26, mostrando una tendencia ascendente en la línea del gráfico.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "El valor en el trimestre T4 26 es superior al valor registrado en el trimestre T3 26, mostrando una tendencia ascendente en la línea del gráfico."
+ },
+ "correcta": "bajaron",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:14:06"
+}

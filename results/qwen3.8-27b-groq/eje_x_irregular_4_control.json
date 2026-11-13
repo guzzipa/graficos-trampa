@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_x_irregular_4_control",
+ "respuesta_cruda": "{\"respuesta\": \"2022-2025\", \"explicacion\": \"El crecimiento anual fue de aproximadamente 16.7 clientes por año entre 2016 y 2022, mientras que fue de aproximadamente 26.7 clientes por año entre 2022 y 2025.\"}",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "El crecimiento anual fue de aproximadamente 16.7 clientes por año entre 2016 y 2022, mientras que fue de aproximadamente 26.7 clientes por año entre 2022 y 2025."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 13:14:31"
+}

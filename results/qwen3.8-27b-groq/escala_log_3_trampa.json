@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "escala_log_3_trampa",
+ "respuesta_cruda": "{\"respuesta\": \"2025\", \"explicacion\": \"El gráfico muestra una escala logarítmica donde la línea es recta, lo que indica un crecimiento porcentual constante; por lo tanto, el aumento absoluto es mayor en el período 2025 (Ene 25 a Ene 26) porque parte de una base de usuarios más pequeña.\"}",
+ "resultado": {
+  "respuesta": "2025",
+  "explicacion": "El gráfico muestra una escala logarítmica donde la línea es recta, lo que indica un crecimiento porcentual constante; por lo tanto, el aumento absoluto es mayor en el período 2025 (Ene 25 a Ene 26) porque parte de una base de usuarios más pequeña."
+ },
+ "correcta": "2026",
+ "acierto": false,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:10:06"
+}

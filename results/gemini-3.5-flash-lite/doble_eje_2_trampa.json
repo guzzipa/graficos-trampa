@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "doble_eje_2_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"Observando los ejes, la línea de ingresos está siempre por encima de la de costos durante todo el año.\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "Observando los ejes, la línea de ingresos está siempre por encima de la de costos durante todo el año."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:56:46"
+}

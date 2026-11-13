@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_3_control",
+ "respuesta_cruda": "```json\n{\n  \"respuesta\": \"entre 10% y 50%\",\n  \"explicacion\": \"El valor de Sucursal Sur (alrededor de 1.080) es aproximadamente un 21% mayor que el de Sucursal Norte (alrededor de 890).\"\n}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El valor de Sucursal Sur (alrededor de 1.080) es aproximadamente un 21% mayor que el de Sucursal Norte (alrededor de 890)."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:57:46"
+}

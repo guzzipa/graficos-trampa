@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "doble_eje_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"ninguno\", \"explicacion\": \"Durante todo el año los ingresos se mantienen por encima de 245 millones de $ mientras que los costos nunca superan los 220 millones de $.\"}\n```",
+ "resultado": {
+  "respuesta": "ninguno",
+  "explicacion": "Durante todo el año los ingresos se mantienen por encima de 245 millones de $ mientras que los costos nunca superan los 220 millones de $."
+ },
+ "correcta": "ninguno",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:59:18"
+}

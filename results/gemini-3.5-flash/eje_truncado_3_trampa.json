@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_3_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El valor de la Sucursal Sur es de aproximadamente 1.085 y el de la Sucursal Norte es de alrededor de 889, lo que representa un aumento cercano al 22%.\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El valor de la Sucursal Sur es de aproximadamente 1.085 y el de la Sucursal Norte es de alrededor de 889, lo que representa un aumento cercano al 22%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:58:11"
+}

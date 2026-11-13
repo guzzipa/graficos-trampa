@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_invertido_2_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"subieron\", \"explicacion\": \"Después del cambio de proveedor, la cantidad de fraudes detectados aumentó de forma sostenida desde aproximadamente 330 en junio hasta casi 500 en diciembre.\"}\n```",
+ "resultado": {
+  "respuesta": "subieron",
+  "explicacion": "Después del cambio de proveedor, la cantidad de fraudes detectados aumentó de forma sostenida desde aproximadamente 330 en junio hasta casi 500 en diciembre."
+ },
+ "correcta": "subieron",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-11 10:58:09"
+}

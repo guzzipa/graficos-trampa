@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash-lite",
+ "tarea": "eje_truncado_4_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El Plan Básico tiene un ticket promedio de aproximadamente 522 y el Plan Plus de 704, lo que representa un incremento cercano al 35%.\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El Plan Básico tiene un ticket promedio de aproximadamente 522 y el Plan Plus de 704, lo que representa un incremento cercano al 35%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 15:56:03"
+}

@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_truncado_2_control",
+ "respuesta_cruda": "{\"respuesta\": \"menos de 10%\", \"explicacion\": \"El valor de Julio (500) es aproximadamente un 6% mayor que el de Junio (470), lo cual es menos del 10%.\"}",
+ "resultado": {
+  "respuesta": "menos de 10%",
+  "explicacion": "El valor de Julio (500) es aproximadamente un 6% mayor que el de Junio (470), lo cual es menos del 10%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:57:28"
+}

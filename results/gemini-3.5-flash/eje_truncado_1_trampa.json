@@ -1,0 +1,13 @@
+{
+ "modelo": "gemini-3.5-flash",
+ "tarea": "eje_truncado_1_trampa",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"menos de 10%\", \"explicacion\": \"El valor de las ventas pasa de aproximadamente 832 a 865 millones de $, lo que representa un incremento cercano al 4%.\"}\n```",
+ "resultado": {
+  "respuesta": "menos de 10%",
+  "explicacion": "El valor de las ventas pasa de aproximadamente 832 a 865 millones de $, lo que representa un incremento cercano al 4%."
+ },
+ "correcta": "menos de 10%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:57:02"
+}

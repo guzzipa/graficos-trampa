@@ -1,0 +1,13 @@
+{
+ "modelo": "gemma4-12b",
+ "tarea": "eje_truncado_3_control",
+ "respuesta_cruda": "```json\n{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"La Sucursal Norte tiene aproximadamente 900 mil transacciones y la Sucursal Sur aproximadamente 1,100 mil, lo que representa un incremento de alrededor del 22%.\"}\n```",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "La Sucursal Norte tiene aproximadamente 900 mil transacciones y la Sucursal Sur aproximadamente 1,100 mil, lo que representa un incremento de alrededor del 22%."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:06:54"
+}

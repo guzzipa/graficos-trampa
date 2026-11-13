@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_truncado_3_control",
+ "respuesta_cruda": "{\"respuesta\": \"entre 10% y 50%\", \"explicacion\": \"El valor de Sucursal Sur (aproximadamente 1080) es aproximadamente un 20% mayor que el de Sucursal Norte (aproximadamente 900).\"}",
+ "resultado": {
+  "respuesta": "entre 10% y 50%",
+  "explicacion": "El valor de Sucursal Sur (aproximadamente 1080) es aproximadamente un 20% mayor que el de Sucursal Norte (aproximadamente 900)."
+ },
+ "correcta": "entre 10% y 50%",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 11:58:11"
+}

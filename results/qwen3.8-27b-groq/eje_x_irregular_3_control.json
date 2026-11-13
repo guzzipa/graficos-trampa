@@ -1,0 +1,13 @@
+{
+ "modelo": "qwen3.8-27b-groq",
+ "tarea": "eje_x_irregular_3_control",
+ "respuesta_cruda": "{\"respuesta\": \"2022-2025\", \"explicacion\": \"El crecimiento anual promedio fue de aproximadamente 13.3 millones de dólares entre 2016 y 2022, mientras que fue de aproximadamente 30 millones de dólares entre 2022 y 2025.\"}",
+ "resultado": {
+  "respuesta": "2022-2025",
+  "explicacion": "El crecimiento anual promedio fue de aproximadamente 13.3 millones de dólares entre 2016 y 2022, mientras que fue de aproximadamente 30 millones de dólares entre 2022 y 2025."
+ },
+ "correcta": "2022-2025",
+ "acierto": true,
+ "intentos": 1,
+ "timestamp": "2026-11-10 12:12:29"
+}
